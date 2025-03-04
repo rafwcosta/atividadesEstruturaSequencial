@@ -1,4 +1,4 @@
-package revisões;
+package revisoes;
 
 import java.util.Scanner;
 import java.util.Locale;
